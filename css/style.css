@@ -210,6 +210,9 @@ footer{
         text-align: center;
         width: 100%;
     }
+    .container{
+        width: 90%;
+    }
     aside.sidebar{
         margin-bottom: 10px;
     }
